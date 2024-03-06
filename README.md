@@ -1,2 +1,6 @@
-# Defi-Protocol
-DefiAlpine is the bridge between Zero knowledge and pro knowledge making Decentralised finance no longer cumbersome for the Average joe 
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x08B889235037AD2679c7cd4E5B563BB231c5A8B8'
+quorum: 1
